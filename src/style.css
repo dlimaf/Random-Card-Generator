@@ -1,1 +1,26 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: green;
+}
+.card {
+  background-color: white;
+  width: 400px;
+  height: 555px;
+  border-radius: 20px;
+}
+p {
+  font-size: 150px;
+  font-family: "Times New Roman", Times, serif;
+}
+.primero {
+  font-size: 110px;
+  position: absolute;
+  top: 0px;
+  left: 10px;
+}
+.tercero {
+  font-size: 110px;
+  position: absolute;
+  bottom: 0px;
+  right: 10px;
+}
