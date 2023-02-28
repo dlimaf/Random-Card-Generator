@@ -23,4 +23,5 @@ p {
   position: absolute;
   bottom: 0px;
   right: 10px;
+  transform: rotate(180deg);
 }
